@@ -1,0 +1,26 @@
+.paragraph{
+    color: blueviolet;
+    margin-top: -0.5px;
+}
+.paragraph-container{
+    background-color: beige;
+    border: 6px dotted coral;
+    width: 180px;
+    height: 200px;
+}
+.container{
+    display: flex;
+    justify-content: center;//flex end
+}
+
+table,tr,th{
+    border-color: antiquewhite;
+    color: brown;
+}
+td,th
+{
+    color: blue;
+}
+*{
+    color: deeppink;
+}

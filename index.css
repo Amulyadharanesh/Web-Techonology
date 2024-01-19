@@ -1,0 +1,38 @@
+.container
+{
+    margin: 20px;
+    border: 6px double orchid;
+    padding: 78px;
+    border-radius: 60px;
+    background-color:yellow;
+    background-image: url("./pic.jpg");
+    height: 500px;
+    
+    
+}
+#Amulya{
+    background-color: yellowgreen;
+}
+#paragraph
+{
+    color:brown;
+}
+h1
+{
+color: blue;
+}
+a:link
+{
+    color: coral;
+}
+h2
+{
+    color: aliceblue;
+}
+
+    body{
+        background-image: url("./FullMoon.jpg");
+        background-repeat: no-repeat;
+        background-size: 2000px;
+    }
+
