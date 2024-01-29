@@ -1,0 +1,19 @@
+.display{
+
+    display: inline-flexbox;
+    border: 2px solid cornflowerblue;
+
+
+}
+
+.dectoration{
+    text-decoration: solid;
+    text-decoration-color:chartreuse ;
+    text-decoration-thickness: 0.5rem;
+}
+
+
+span{
+    background-color: blueviolet;
+    color: beige;
+}
